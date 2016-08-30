@@ -1,0 +1,12 @@
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\bin\Debug\Reporte.exe.config
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\bin\Debug\Reporte.exe
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\bin\Debug\Reporte.pdb
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\obj\Debug\Reporte.csprojResolveAssemblyReference.cache
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\obj\Debug\Reporte.Form1.resources
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\obj\Debug\Reporte.Properties.Resources.resources
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\obj\Debug\Reporte.csproj.GenerateResource.Cache
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\obj\Debug\Reporte.exe
+c:\users\soportepq\documents\visual studio 2015\Projects\Reporte\Reporte\obj\Debug\Reporte.pdb
+C:\Users\SOPORTEPQ\Source\Repos\Imprimir-Reporte\Reporte\Reporte\bin\Debug\Reporte.exe.config
+C:\Users\SOPORTEPQ\Source\Repos\Imprimir-Reporte\Reporte\Reporte\obj\Debug\Reporte.exe
+C:\Users\SOPORTEPQ\Source\Repos\Imprimir-Reporte\Reporte\Reporte\obj\Debug\Reporte.pdb
